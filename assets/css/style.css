@@ -1,0 +1,9 @@
+img#loader-img{
+    width: 90px;
+}
+.heading-2{
+    font-size: 25px;
+}
+#loader, #results{
+    display: none;
+}
